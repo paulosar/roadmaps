@@ -3,16 +3,19 @@ A intenção desse repo é adicionar roadmaps ou em português boomer, de tiozã
 
 Roadmap Web Developer - Em EN  - By kamranahmedse
 
-https://github.com/kamranahmedse/developer-roadmap?fbclid=IwAR2D2O6PN-SMKB9xRHBP7_oo-kevxGKRAH3HzD1br9km0of4J3VeUKtxGoI
+https://github.com/kamranahmedse/developer-roadmap
 
 Roadmap Web Developer - Em PT - By @MilenaCarecho
 
-https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb?fbclid=IwAR19ZoUt8Q50gGIbUdDot9waTWbTIUt48rM2DLO3-d8SGDMx51PfuBRbpbc
+https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb
 
 Roadmap de Data Science - Em EN - By MrMimic
 
-https://github.com/MrMimic/data-scientist-roadmap?fbclid=IwAR2jeQO5xI0OFes5MToLCp6Ku-S7RlASRGtfYayW4RAx3ER0Q_w02h0KM1g
+https://github.com/MrMimic/data-scientist-roadmap
 
 Roadmap de Web Dev a SoftWare Engineer - Em EN - by jwasham
 
-https://github.com/jwasham/coding-interview-university?fbclid=IwAR3WjkecK1djfTUSXWLmgQJCq8vg6_igMcOSW50XwguB1EK1svBmAKT4gVk#what-is-it
+https://github.com/jwasham/coding-interview-university
+
+Roadmap Web Developer (2019) - Em PT - by HakaCode
+https://github.com/HakaCode/roadmap-do-desenvolvedor-web
